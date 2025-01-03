@@ -25,7 +25,7 @@ Welcome to the **Chat Application** – a simple, responsive, and user-friendly 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/chat-application.git
+   git clone https://github.com/G-ShivaKrishna/PRIVATE_PING.git
    cd chat-application
    ```
 
